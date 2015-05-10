@@ -1,0 +1,19 @@
+{
+  "name": "frampton-build",
+  "version": "1.0.0",
+  "description": "Build pipeline for frampton.js",
+  "main": "frampton-build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:framptonjs/frampton-build.git"
+  },
+  "author": "Kevin B. Greene",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/framptonjs/frampton-build/issues"
+  },
+  "homepage": "https://github.com/framptonjs/frampton-build"
+}
