@@ -1,6 +1,6 @@
 {
   "name": "frampton-build",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Build pipeline for frampton.js",
   "main": "frampton-build.js",
   "scripts": {
@@ -18,8 +18,6 @@
   "homepage": "https://github.com/framptonjs/frampton-build",
   "devDependencies": {
     "babel-core": "^5.2.17",
-    "broccoli": "^0.16.2",
-    "broccoli-cli": "^1.0.0",
     "broccoli-concat": "0.0.13",
     "broccoli-file-creator": "^0.1.0",
     "broccoli-funnel": "^0.2.3",
