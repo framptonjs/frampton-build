@@ -1,6 +1,6 @@
 {
   "name": "frampton-build",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Build pipeline for frampton.js",
   "main": "frampton-build.js",
   "scripts": {
