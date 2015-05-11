@@ -16,7 +16,7 @@
     "url": "https://github.com/framptonjs/frampton-build/issues"
   },
   "homepage": "https://github.com/framptonjs/frampton-build",
-  "devDependencies": {
+  "dependencies": {
     "babel-core": "^5.2.17",
     "broccoli-concat": "0.0.13",
     "broccoli-file-creator": "^0.1.0",
